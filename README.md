@@ -18,7 +18,7 @@
 ```javascript
 const gauKeo = {
     bietDanh: "🐻 Gấu Kẹo 🍬",
-    tenThat: "Bí mật nhé! 🤫",
+    tenThat: "Bí mật nhé! 🤭",
     giongXung: "anh ấy / cô ấy à thôi gọi Gấu đi 💖",
     lopHoc: "TT601K16",
     toaDo: "Việt Nam 🇻🇳",
