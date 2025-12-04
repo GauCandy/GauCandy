@@ -363,14 +363,17 @@ while (conSong) {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GauCandy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauCandy&layout=compact&langs_count=8&theme=tokyonight"/>
+<!-- Thêm cache_seconds để giảm lỗi fetch, bg_color để đẹp hơn -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GauCandy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true&bg_color=1a1b27"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauCandy&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&hide_border=true&bg_color=1a1b27"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauCandy&theme=tokyonight)](https://git.io/streak-stats)
+<!-- Sửa syntax markdown cho Streak (bạn dùng sai cú pháp) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GauCandy&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
 
 </div>
 
