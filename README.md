@@ -2,289 +2,146 @@
 
 # 👋 Xin chào! Mình là Gấu Kẹo! 🐻🍬
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Developer+gi%E1%BA%A3i+quy%E1%BA%BFt+v%E1%BA%A5n+%C4%91%E1%BB%81+th%E1%BB%B1c+t%E1%BA%BF+%F0%9F%9A%80;X%C3%A2y+d%E1%BB%B1ng+gi%E1%BA%A3i+ph%C3%A1p+cho+gi%C3%A1o+d%E1%BB%A5c+%F0%9F%8E%93;T%E1%BB%B1+%C4%91%E1%BB%99ng+h%C3%B3a+quy+tr%C3%ACnh+v%E1%BB%9Bi+AI+%F0%9F%A4%96;T%E1%BB%91i+%C6%B0u+tr%E1%BA%A3i+nghi%E1%BB%87m+ng%C6%B0%E1%BB%9Di+d%C3%B9ng+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Systems+Engineer+%F0%9F%9A%80;Bi%E1%BA%BFn+b%C3%A0i+to%C3%A1n+ph%E1%BB%A9c+t%E1%BA%A1p+th%C3%A0nh+h%E1%BB%87+th%E1%BB%91ng+t%E1%BB%B1+%C4%91%E1%BB%99ng+h%C3%B3a+%E2%9A%A1;L%C3%A0m+ch%E1%BB%A7+t%E1%BB%AB+t%E1%BA%A7ng+Application+xu%E1%BB%91ng+t%E1%BA%ADn+Hardware+%F0%9F%94%A7;Thi%E1%BA%BFt+k%E1%BA%BF+3D+k%E1%BB%B9+thu%E1%BA%ADt+%26+%C4%90i%E1%BB%87n+-+%C4%90i%E1%BB%87n+t%E1%BB%AD+%F0%9F%93%90;Focus+on+Problem-Solving+%26+Real-World+Impact+%E2%9C%A8" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/GauCandy?style=social)](https://github.com/GauCandy)
 [![GitHub stars](https://img.shields.io/github/stars/GauCandy?style=social)](https://github.com/GauCandy)
 
-**Developer tự học | Đam mê giải quyết vấn đề thực tế | Việt Nam 🇻🇳**
+**Problem Solver | Systems Architect | 3D Engineering Design | Electrical & Electronics | Homelab Enthusiast | Việt Nam 🇻🇳**
 
 </div>
 
 ---
 
-## 🎯 Mình Giải Quyết Vấn Đề Gì?
+## ⚡ Góc Nhìn Kỹ Thuật (Engineering Philosophy)
 
-> *"Công nghệ chỉ là công cụ - vấn đề bạn giải quyết mới là điều quan trọng!"* ✨
+> *"Các repository có thể nhanh chóng lỗi thời theo dòng chảy công nghệ, nhưng tư duy bóc tách bài toán và năng lực thiết kế hệ thống thì luôn ở lại."* ✨
 
-```javascript
+Thay vì đóng khung trong một công nghệ hay một dự án cố định, mình tập trung vào việc **giải quyết các bài toán thực tế từ gốc rễ**. Nếu một vấn đề cần giao diện web, mình viết Full-stack. Nếu nó bị nghẽn ở tầng thực thi, mình can thiệp vào Bytecode và Network. Nếu nó cần tương tác với thế giới vật lý, mình tự thiết kế mạch điện, mạch nhúng và dựng 3D kỹ thuật cho cả phần vỏ lẫn chi tiết cơ khí.
+
+```typescript
 const gauKeo = {
-    monDacSan: "Biến ý tưởng phức tạp thành giải pháp đơn giản",
+    banChat: "Giải quyết vấn đề thực tế — Không giới hạn ở phần mềm hay phần cứng",
     
-    vanDeGiaiQuyet: [
-        "🎓 Tự động hóa quy trình quản lý trường học",
-        "💰 Đơn giản hóa thanh toán trực tuyến cho giáo dục",
-        "🤖 Tích hợp AI để hỗ trợ người dùng 24/7",
-        "🌐 Xây dựng cộng đồng Discord quy mô lớn",
-        "⚡ Tối ưu trải nghiệm với hệ thống real-time"
+    phamViHoatDong: [
+        "🌐 High-Concurrency & Distributed Multi-Node Architectures",
+        "⚡ Low-Level Optimization, Bytecode Reconstruction & Protocol Routing",
+        "💻 Modern Full-Stack Web Applications & Real-Time Dashboards",
+        "🔌 Embedded Systems, Custom Circuits & IoT Mesh",
+        "🔋 Electrical & Power Electronics: Nguồn, Mạch Công Suất, Đấu Nối",
+        "📐 3D Engineering Design: CAD Kỹ Thuật, Dựng Khối Có Dung Sai",
+        "🖥️ Self-Hosted Infrastructure, Virtualization & Network Security"
     ],
     
-    cachTiepCan: "Lắng nghe → Phân tích → Xây dựng → Lặp lại",
-    
-    giaTri: {
-        hieu: "Giải pháp phải dễ sử dụng, không phức tạp",
-        nhanh: "User không thích chờ đợi",
-        thucTe: "Code để giải quyết vấn đề thật, không chỉ để show off"
+    nguyenTacThietKe: {
+        hieuNang: "Tối ưu từng MB bộ nhớ và từng ms độ trễ mạng",
+        thucTe: "Hệ thống phải chạy bền bỉ trên môi trường thực chiến, không chỉ đẹp trên lý thuyết",
+        toanDien: "Hiểu rõ luồng dữ liệu đi từ nút bấm của User xuống tận thanh ghi phần cứng — và cả dòng điện nuôi nó"
     }
 };
 ```
 
 ---
 
-## 💼 Dự Án & Impact - Những Gì Mình Đã Làm
+## 🛠️ Những Bài Toán Mình Thường Giải Quyết
 
-### 🎓 [Hệ Thống Quản Lý Trường Học](https://github.com/GauCandy/Ctech-Web)
+*(Không tính bằng số lượng repo, mình định hình năng lực qua các lớp bài toán đã và đang xử lý)*
 
-**Vấn đề:** Trường học vẫn quản lý thủ công, tốn thời gian và dễ sai sót
+### 1. 🌐 Hệ Thống Phân Tán & Tự Động Hóa Quy Mô Lớn (Distributed Systems)
+- **Bài toán:** Làm sao để vận hành đồng thời hàng trăm/hàng nghìn tiến trình thời gian thực (Real-time Headless Instances) mà không làm sập máy chủ hay đứt gãy luồng mạng?
+- **Cách mình giải quyết:**
+  - Can thiệp sâu vào tầng thực thi (JVM/Bytecode) để cắt bỏ mọi thành phần dư thừa, ép mức tiêu thụ tài nguyên của mỗi tiến trình xuống mức tối thiểu.
+  - Xây dựng kiến trúc điều phối **Multi-Node** tập trung, kết hợp cơ chế tự động định tuyến mạng (**SOCKS5 Proxy Routing**) và tự phục hồi trạng thái (**Self-Healing**) khi gặp sự cố.
 
-**Giải pháp mình xây dựng:**
-- ✅ **Tự động hóa đặt hàng & thanh toán** → Giảm 80% thời gian xử lý
-- ✅ **AI Chatbot hỗ trợ 24/7** → Trả lời tự động các câu hỏi thường gặp
-- ✅ **Parse PDF thời khóa biểu tự động** → Không cần nhập tay nữa
-- ✅ **Hệ thống voucher thông minh** → Tăng engagement của học sinh
+### 2. 💻 Ứng Dụng Web Hiện Đại & Tối Ưu Hóa Quy Trình (Full-Stack & Automation)
+- **Bài toán:** Chuyển đổi các quy trình thủ công rườm rà (thanh toán, quản lý dữ liệu, tra cứu, học tập) thành trải nghiệm tự động hóa mượt mà cho người dùng cuối.
+- **Cách mình giải quyết:**
+  - Thiết kế các hệ thống Full-stack có khả năng chịu tải cao, phản hồi tức thì nhờ chiến lược Caching và tối ưu truy vấn Database.
+  - Tích hợp thanh toán tự động, bóc tách dữ liệu từ tài liệu thô và ứng dụng AI/LLM một cách thực dụng để giải phóng sức lao động.
 
-**Impact:**
-- 📊 Xử lý 100+ giao dịch/ngày tự động
-- ⚡ Giảm 70% thời gian tra cứu thông tin
-- 💬 Chatbot xử lý 200+ câu hỏi mà không cần nhân viên
+### 3. 🔌 Hệ Thống Nhúng, Điện & Điện Tử (Embedded, Electrical & Electronics)
+- **Bài toán:** Đưa code thoát khỏi màn hình máy tính để điều khiển, đo lường và bảo vệ các hệ thống trong thế giới vật lý — từ tín hiệu vi điều khiển cho tới phần điện cấp nguồn cho chúng.
+- **Cách mình giải quyết:**
+  - **Embedded & Firmware:** Phát triển firmware trên vi điều khiển (**ESP32-S3/C3/H2, STM32**), xử lý tín hiệu cảm biến, điều chế âm thanh phần cứng (PWM/MOSFET) và xây dựng mạng lưới giao tiếp không dây độ trễ thấp (**ESP-NOW, Zigbee/Thread**).
+  - **Điện & Điện tử:** Tự thiết kế mạch, tính toán nguồn và tải, đấu nối đi dây, xử lý mạch công suất và các vấn đề an toàn điện khi đưa hệ thống vào chạy thật.
+  - **Tự động hóa:** Kết hợp phần mềm với phần điện để tự động hóa thiết bị thực — code điều khiển, mạch chấp hành và cơ cấu vật lý chạy thành một hệ thống liền mạch.
 
-**Tech Stack:** Node.js, Express, MySQL, OpenAI API, PDF.js
-*(Nhưng quan trọng là nó giải quyết được vấn đề!)*
+### 4. 📐 Thiết Kế 3D Kỹ Thuật (3D Engineering Design)
+- **Bài toán:** Biến ý tưởng cơ khí thành bản vẽ 3D chính xác, lắp ráp khớp và chịu được tải thực tế — không phải dựng mô hình để trình diễn.
+- **Cách mình giải quyết:**
+  - **Dựng khối kỹ thuật (Solid / Parametric Modeling):** Làm việc theo tư duy CAD — sketch ràng buộc, kích thước tham số, assembly nhiều chi tiết, tính toán dung sai để các bộ phận lắp vào nhau đúng ngay từ lần in/gia công đầu.
+  - **Ứng dụng thực tế:** Thiết kế vỏ máy tùy chỉnh, hộp bảo quản thiết bị, giá đỡ, và chi tiết cơ khí chịu lực, kết hợp trực tiếp với phần mạch điện bên trong (cắt lỗ, bắt cố định PCB, thoát nhiệt, đi dây).
+  - **Chế tạo:** Chuẩn bị và in 3D bằng vật liệu kỹ thuật (**PETG, PETG-CF, TPU**), kiểm chứng thiết kế bằng sản phẩm thật rồi quay lại chỉnh sửa.
 
----
-
-### 🤖 [WhiteCat Discord Bot](https://github.com/GauCandy/WhiteCat)
-
-**Vấn đề:** Quản lý cộng đồng Discord lớn rất khó và tốn công
-
-**Giải pháp mình đang xây:**
-- ✅ **Tự động moderation** → Giảm spam & toxic
-- 🚧 **Hệ thống kinh tế & engagement** → Giữ chân thành viên
-- 🚧 **Multi-language support** → Phục vụ global community
-
-**Đặc biệt:** Vietnamese-first design - ưu tiên người Việt!
-
-**Current Status:** Active development, đã serve 1000+ users
-
----
-
-### 📦 [Lang_Custom - i18n Library](https://github.com/GauCandy/Lang_Custom)
-
-**Vấn đề:** Làm app đa ngôn ngữ rất phức tạp và khó maintain
-
-**Giải pháp:**
-- ✅ **Quản lý translation từ JSON đơn giản**
-- ✅ **SQLite backend tối ưu hiệu suất**
-- ✅ **Batch operations cho scale lớn**
-
-**Impact:**
-- 📦 Published on PyPI, sử dụng bởi nhiều dev
-- 🌍 Giúp app dễ dàng support đa ngôn ngữ
-- ⚡ Fast lookup với SQLite caching
+### 5. 🖥️ Hạ Tầng Mạng & Tự Chủ Máy Chủ (Homelab & Infrastructure)
+- **Bài toán:** Giảm sự phụ thuộc vào các dịch vụ đám mây đắt đỏ, đồng thời kiểm soát tuyệt đối tính bảo mật và luồng mạng.
+- **Cách mình giải quyết:**
+  - Tự xây dựng và vận hành cụm máy chủ vật lý riêng với **Proxmox VE**, chia tách dịch vụ qua **Docker** và **LXC Containers**.
+  - Quản trị định tuyến bằng **OpenWrt** ảo hóa và triển khai kết nối an toàn ra internet thông qua **Cloudflare Tunnels**.
 
 ---
 
-## 🛠️ Kỹ Năng Giải Quyết Vấn Đề
+## 🧰 Hệ Sinh Thái Công Cụ (Tech Arsenal)
 
-### 💡 Mình Giỏi Nhất Ở Việc:
+*(Công nghệ có thể thay đổi mỗi năm, đây là những công cụ mình đang dùng để biến ý tưởng thành hiện thực)*
 
-```
-🎯 Full-stack Development
-   → Xây dựng ứng dụng web hoàn chỉnh từ A-Z
-   → Backend API + Database + Frontend UI
-
-🤖 AI Integration
-   → Tích hợp chatbot thông minh vào hệ thống
-   → Tự động hóa quy trình với AI
-
-💳 Payment Systems
-   → Xây dựng hệ thống thanh toán an toàn
-   → VietQR integration cho thị trường Việt
-
-⚡ Real-time Systems
-   → WebSocket, live updates
-   → Discord bots với millions of events
-
-🔧 System Optimization
-   → Tối ưu database queries
-   → Caching strategies, performance tuning
-```
-
-### 🎓 Công Nghệ Mình Sử Dụng
-
-*(Liệt kê nhanh - vì công nghệ chỉ là công cụ!)*
-
-**Backend:** Node.js, Python, Go, Express, Flask  
-**Database:** MySQL, SQLite, Redis  
-**Frontend:** JavaScript, HTML/CSS, React (learning)  
-**AI/APIs:** OpenAI, Claude, Discord API  
-**DevOps:** Docker, Linux, Nginx, Cloudflare  
-**IoT:** ESP32, Arduino (when needed)
+| Lĩnh vực | Công cụ & Nền tảng chủ lực |
+| :--- | :--- |
+| **Core & Backend** | `Java (JDK 25 / Bytecode)` • `TypeScript / Node.js` • `Python` • `C / C++` • `Go` |
+| **Frontend & UI** | `Next.js` • `React` • `TailwindCSS` • `WebSockets / Real-time Streams` |
+| **Data & Storage** | `PostgreSQL` • `Prisma ORM` • `Redis` • `MySQL` • `SQLite` |
+| **Infra & Networking** | `Proxmox VE` • `Debian Linux` • `Docker & LXC` • `OpenWrt` • `Cloudflare` • `SOCKS5` |
+| **Embedded & Điện** | `ESP32 Series` • `STM32` • `PlatformIO` • `Thiết kế mạch` • `Mạch công suất` |
+| **3D Engineering & Maker** | `FreeCAD` • `Parametric / Solid Modeling` • `Assembly & Dung sai` • `Bambu Studio / OrcaSlicer` |
 
 ---
 
-## 📈 Cách Mình Làm Việc
+## 📈 Quy Trình Tư Duy (How I Work)
 
 ```javascript
-const workflowCuaMinh = {
-    buoc1: {
-        ten: "Hiểu vấn đề",
-        cau_hoi: [
-            "Vấn đề thực sự là gì?",
-            "Ai đang gặp vấn đề này?",
-            "Giải pháp hiện tại sao không hiệu quả?"
-        ]
-    },
-    
-    buoc2: {
-        ten: "Thiết kế giải pháp",
-        nguyen_tac: [
-            "Đơn giản nhưng hiệu quả",
-            "Dễ maintain và scale",
-            "User experience first"
-        ]
-    },
-    
-    buoc3: {
-        ten: "Xây dựng & Test",
-        hanh_dong: [
-            "Code clean, có comment",
-            "Test nhiều edge cases",
-            "Lấy feedback sớm"
-        ]
-    },
-    
-    buoc4: {
-        ten: "Cải thiện liên tục",
-        thoi_quen: "Luôn học từ feedback và metrics"
-    }
+const engineeringWorkflow = {
+    1_FirstPrinciples: "Bóc tách vấn đề về bản chất cốt lõi, không chạy theo hype công nghệ",
+    2_Architecture:    "Thiết kế hệ thống tối giản, ưu tiên hiệu năng, dễ mở rộng và dễ bảo trì",
+    3_Execution:       "Làm chủ toàn bộ chuỗi: viết code, tự động hóa, thiết kế mạch điện, dựng 3D, cấu hình server, hàn mạch, in thành phẩm",
+    4_Iteration:       "Đo lường bằng thông số thực tế (Metrics), tìm điểm nghẽn và liên tục tối ưu"
 };
 ```
 
 ---
 
-## 🚀 Mình Có Thể Giúp Gì Cho Bạn?
-
-### Nếu bạn cần:
-
-- 🎓 **Hệ thống quản lý cho giáo dục/tổ chức**
-- 🤖 **Discord bot cho cộng đồng**
-- 💳 **Payment integration cho thị trường Việt**
-- 🌐 **Full-stack web application**
-- ⚡ **Tối ưu hệ thống hiện có**
-- 🔧 **Technical consulting cho startup**
-
-→ **Hãy liên hệ mình!** Mình rất thích giải quyết vấn đề thú vị! 🎯
-
----
-
-## 📊 Con Số Nói Lên
-
-<div align="center">
-
-```
-🎯 3+ dự án production đang chạy
-💻 15,000+ dòng code đã viết
-🤖 1,000+ users sử dụng bot của mình
-⚡ 100+ giao dịch/ngày qua hệ thống
-📚 8+ ngôn ngữ lập trình đã sử dụng
-🌱 95% tự học qua làm dự án thực tế
-```
-
-</div>
-
----
-
-## 🌱 Đang Học & Phát Triển
-
-```diff
-+ 🐳 Docker & Kubernetes → Deploy và scale dễ dàng hơn
-+ ⚛️ React & TypeScript → Frontend hiện đại hơn
-+ 🔴 Redis → Caching và real-time tốt hơn
-+ 🏗️ Microservices → Architect cho hệ thống lớn
-+ 🌐 Go → Performance cao cho backend
-
-! Học bằng cách giải quyết vấn đề thực tế, không chỉ làm tutorial!
-```
-
----
-
-## 📫 Kết Nối & Cộng Tác
+## 📫 Kết Nối & Trao Đổi
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-GauCandy-181717?style=for-the-badge&logo=github)](https://github.com/GauCandy)
-[![Discord](https://img.shields.io/badge/Discord-gau__candy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gau_candy)
-[![Email](https://img.shields.io/badge/Email-gaulollipop@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaulollipop@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-gelbau-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gelbau)
+[![Email](https://img.shields.io/badge/Email-gau@whitecat.cloud-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gau@whitecat.cloud)
 
-**💬 "Hãy cùng nhau giải quyết vấn đề thú vị!"**
+**💬 "Đừng hỏi mình đã viết bao nhiêu repo — hãy kể cho mình nghe bài toán khó nhất bạn đang gặp phải!"**
 
-```javascript
-if (ban.co_van_de_can_giai_quyet) {
-    lien_he_minh(); // Cùng brainstorm nhé! 🧠
-    tim_giai_phap(); // Mình thích challenge! 💪
-    xay_dung_cung_nhau(); // Teamwork makes dream work! ✨
+```typescript
+if (ban.coBaiToanKho || ban.muonBanLuanVeHeThong) {
+    pingMinhNgay({
+        discord: "gelbau",
+        email: "gau@whitecat.cloud"
+    }); // Luôn sẵn sàng cho những thử thách kỹ thuật thú vị! 🚀
 }
 ```
 
-**Mình luôn sẵn sàng cho:**
-- 🤝 Cộng tác dự án thú vị
-- 💡 Trao đổi ý tưởng và giải pháp
-- 🎓 Giúp đỡ junior dev
-- ☕ Tán dóc về tech và problem-solving
+---
 
-</div>
+### ⚡ Châm Ngôn Làm Việc
+
+> *"Code không phải để khoe kỹ thuật — Code là để giải quyết vấn đề thật và vận hành bền bỉ!"* 💡
+
+> *"Công nghệ tốt nhất là công nghệ hoạt động mượt mà đến mức người dùng quên mất sự tồn tại của nó."* ✨
 
 ---
 
-## 🎯 Mục Tiêu 2026
+![Lượt xem Profile](https://komarev.com/ghpvc/?username=GauCandy&color=2E9EF7&style=for-the-badge)
 
-- [ ] 🚀 Giúp 5+ dự án/tổ chức giải quyết vấn đề thực tế
-- [ ] 🌟 Đóng góp cho open-source (giúp đỡ cộng đồng!)
-- [ ] 📝 Chia sẻ kiến thức qua blog/video
-- [ ] 🎓 Mentor cho developer mới
-- [ ] 💼 Xây dựng portfolio với impact rõ ràng
+**Được chế tạo với 💖, ☕, và niềm đam mê kỹ thuật bất tận — Gấu Kẹo**
 
----
-
-<div align="center">
-
-### ⚡ Triết Lý Làm Việc
-
-> *"Code không phải để khoe kỹ thuật - Code để giải quyết vấn đề thật và tạo ra giá trị!"* 💡
-
-> *"Công nghệ tốt nhất là công nghệ người dùng không cần nghĩ!"* ✨
-
-> *"Học tốt nhất khi giải quyết vấn đề thực tế, không phải làm tutorial!"* 🎯
-
----
-
-### 🎀 Cảm Ơn Bạn Đã Ghé Thăm!
-
-**Nếu bạn thích cách mình approach problems:**
-
-⭐ **Star** nếu thấy dự án hữu ích  
-👀 **Follow** để cập nhật dự án mới  
-🤝 **Collaborate** - Hãy cùng làm việc nhé!
-
-*Mỗi vấn đề bạn giải quyết là một giá trị bạn tạo ra! 🚀*
-
----
-
-![Lượt xem Profile](https://komarev.com/ghpvc/?username=GauCandy&color=blueviolet&style=for-the-badge)
-
-**Được làm với 💖, ☕, và đam mê giải quyết vấn đề - Gấu Kẹo**
-
-<sub>*Cập nhật: 02/2026 | Focus: Problem-solving over technology*</sub>
+<sub>*Focus: Systems Engineering, Full-Stack, 3D Engineering & Electrical | Always evolving 🔄*</sub>
 
 </div>
